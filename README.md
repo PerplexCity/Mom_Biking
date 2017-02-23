@@ -1,1 +1,1 @@
-# Mom_Biking
+All of the trip logs are availabile on [Citi Bike's site](https://www.citibikenyc.com/system-data). Once downloaded, they can be combined and analyzed in [citi_bikin.R](https://github.com/PerplexCity/Mom_Biking/blob/master/citi_bikin.R).
